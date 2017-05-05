@@ -16,7 +16,9 @@ public class ProyectoDAM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Esto sale en pantalla\n");        
+        System.out.println("Esto sale en pantalla\n");
+        System.out.println("Versión 1.0\n");        
+        
     }
     
 }
